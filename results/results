@@ -1,0 +1,185 @@
+
+# Results on Tuesday December 01 2020 21:37:35 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+# Design number was non-random = 116
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,0,0,preload,NULL,PennController,Preloader-0,_Trial_,Start,1606857407370,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,0,0,preload,NULL,PennController,Preloader-0,_Trial_,End,1606857407370,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. ParticipantID.
+# 14. Comments.
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,PennController,1,_Trial_,Start,1606857407378,033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,PennController,1,_Header_,Start,1606857407378,033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,PennController,1,_Header_,End,1606857407391,033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,TextInput,AmazonID,EnterReturn,033,1606857420091,033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,TextInput,AmazonID,Final,033,1606857448812,033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,TextInput,AmazonID,First,,1606857418206,033,0
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,TextInput,age,EnterReturn,35,1606857421850,033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,TextInput,age,Final,35,1606857448812,033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,TextInput,age,First,,1606857421488,033,3
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,TextInput,version,EnterReturn,Any,1606857447512,033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,TextInput,version,Final,Any,1606857448812,033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,TextInput,version,First,,1606857426665,033,f
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,5,0,Info,NULL,PennController,1,_Trial_,End,1606857448812,033,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,6,0,Introduction,NULL,PennController,2,_Trial_,Start,1606857448816,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,6,0,Introduction,NULL,PennController,2,_Header_,Start,1606857448816,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,6,0,Introduction,NULL,PennController,2,_Header_,End,1606857448818,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,6,0,Introduction,NULL,PennController,2,_Trial_,End,1606857573274,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,7,0,Example,NULL,PennController,3,_Trial_,Start,1606857573277,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,7,0,Example,NULL,PennController,3,_Header_,Start,1606857573277,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,7,0,Example,NULL,PennController,3,_Header_,End,1606857573282,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,7,0,Example,NULL,Selector,conditional_1,Selection,star,1606857595670,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,7,0,Example,NULL,Selector,conditional_1,Selection,circle,1606857608811,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,7,0,Example,NULL,Selector,conditional_1,Selection,circle,1606857610519,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,7,0,Example,NULL,Selector,conditional_2,Selection,circle,1606857610519,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,7,0,Example,NULL,PennController,3,_Trial_,End,1606857622165,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,8,0,Context,NULL,PennController,4,_Trial_,Start,1606857622168,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,8,0,Context,NULL,PennController,4,_Header_,Start,1606857622168,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,8,0,Context,NULL,PennController,4,_Header_,End,1606857622173,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,8,0,Context,NULL,PennController,4,_Trial_,End,1606857632965,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,9,0,Instruction,NULL,PennController,5,_Trial_,Start,1606857632967,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,9,0,Instruction,NULL,PennController,5,_Header_,Start,1606857632967,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,9,0,Instruction,NULL,PennController,5,_Header_,End,1606857632974,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,9,0,Instruction,NULL,PennController,5,_Trial_,End,1606857741886,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,10,0,Practice1,NULL,PennController,6,_Trial_,Start,1606857741889,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,10,0,Practice1,NULL,PennController,6,_Header_,Start,1606857741889,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,10,0,Practice1,NULL,PennController,6,_Header_,End,1606857741892,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,10,0,Practice1,NULL,Selector,target_q,Selection,target_coin,1606857791558,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,10,0,Practice1,NULL,PennController,6,_Trial_,End,1606857792783,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,11,0,Practice2,NULL,PennController,7,_Trial_,Start,1606857792785,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,11,0,Practice2,NULL,PennController,7,_Header_,Start,1606857792785,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,11,0,Practice2,NULL,PennController,7,_Header_,End,1606857792786,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,11,0,Practice2,NULL,Selector,target_q,Selection,target_coin,1606857849292,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,11,0,Practice2,NULL,PennController,7,_Trial_,End,1606857885452,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Group.
+# 14. Condition.
+# 15. trial_ID.
+# 16. Target_sound.
+# 17. Count.
+# 18. Past.
+# 19. Actual.
+# 20. Dominant_hat.
+# 21. Second_hat.
+# 22. Correct_Response.
+# 23. ParticipantID.
+# 24. Accuracy.
+# 25. RT.
+# 26. Comments.
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,16,0,Target_control,NULL,PennController,12,_Trial_,Start,1606857885456,1,present_wish,p2,pres_wish_circle.mp3,Image3,Image1,Image2,circle,heart,image2_f5,033,0,2770,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,16,0,Target_control,NULL,PennController,12,_Header_,Start,1606857885456,1,present_wish,p2,pres_wish_circle.mp3,Image3,Image1,Image2,circle,heart,image2_f5,033,0,2770,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,16,0,Target_control,NULL,PennController,12,_Header_,End,1606857885458,1,present_wish,p2,pres_wish_circle.mp3,Image3,Image1,Image2,circle,heart,image2_f5,033,0,2770,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,16,0,Target_control,NULL,Selector,target_q,Selection,image2_f5,1606857934445,1,present_wish,p2,pres_wish_circle.mp3,Image3,Image1,Image2,circle,heart,image2_f5,033,0,2770,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,16,0,Target_control,NULL,PennController,12,_Trial_,End,1606857943884,1,present_wish,p2,pres_wish_circle.mp3,Image3,Image1,Image2,circle,heart,image2_f5,033,0,2770,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,12,0,Target_control,NULL,PennController,8,_Trial_,Start,1606857943887,1,control,c1,control_circles.mp3,Image1,Image2,Image3,heart,circle,image1_f5,033,1,5225,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,12,0,Target_control,NULL,PennController,8,_Header_,Start,1606857943887,1,control,c1,control_circles.mp3,Image1,Image2,Image3,heart,circle,image1_f5,033,1,5225,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,12,0,Target_control,NULL,PennController,8,_Header_,End,1606857943888,1,control,c1,control_circles.mp3,Image1,Image2,Image3,heart,circle,image1_f5,033,1,5225,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,12,0,Target_control,NULL,Selector,target_q,Selection,image1_f5,1606857991066,1,control,c1,control_circles.mp3,Image1,Image2,Image3,heart,circle,image1_f5,033,1,5225,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,12,0,Target_control,NULL,PennController,8,_Trial_,End,1606857999657,1,control,c1,control_circles.mp3,Image1,Image2,Image3,heart,circle,image1_f5,033,1,5225,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,18,0,Target_countcon,NULL,PennController,14,_Trial_,Start,1606857999660,1,counterfactual_conditional,t2,cf_cond_star.mp3,Image3,Image1,Image2,star,heart,image3_f5,033,0,2342,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,18,0,Target_countcon,NULL,PennController,14,_Header_,Start,1606857999660,1,counterfactual_conditional,t2,cf_cond_star.mp3,Image3,Image1,Image2,star,heart,image3_f5,033,0,2342,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,18,0,Target_countcon,NULL,PennController,14,_Header_,End,1606857999662,1,counterfactual_conditional,t2,cf_cond_star.mp3,Image3,Image1,Image2,star,heart,image3_f5,033,0,2342,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,18,0,Target_countcon,NULL,Selector,target_q,Selection,image3_f5,1606858047022,1,counterfactual_conditional,t2,cf_cond_star.mp3,Image3,Image1,Image2,star,heart,image3_f5,033,0,2342,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,18,0,Target_countcon,NULL,PennController,14,_Trial_,End,1606858065426,1,counterfactual_conditional,t2,cf_cond_star.mp3,Image3,Image1,Image2,star,heart,image3_f5,033,0,2342,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,22,0,Target_countwish,NULL,PennController,18,_Trial_,Start,1606858065428,1,counterfactual_wish,t6,cf_wish_star.mp3,Image2,Image1,Image3,star,heart,image2_f5,033,0,2297,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,22,0,Target_countwish,NULL,PennController,18,_Header_,Start,1606858065428,1,counterfactual_wish,t6,cf_wish_star.mp3,Image2,Image1,Image3,star,heart,image2_f5,033,0,2297,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,22,0,Target_countwish,NULL,PennController,18,_Header_,End,1606858065430,1,counterfactual_wish,t6,cf_wish_star.mp3,Image2,Image1,Image3,star,heart,image2_f5,033,0,2297,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,22,0,Target_countwish,NULL,Selector,target_q,Selection,image2_f5,1606858113577,1,counterfactual_wish,t6,cf_wish_star.mp3,Image2,Image1,Image3,star,heart,image2_f5,033,0,2297,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,22,0,Target_countwish,NULL,PennController,18,_Trial_,End,1606858132576,1,counterfactual_wish,t6,cf_wish_star.mp3,Image2,Image1,Image3,star,heart,image2_f5,033,0,2297,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,14,0,Target_control,NULL,PennController,10,_Trial_,Start,1606858132579,1,control,c3,control_hearts.mp3,Image3,Image1,Image2,circle,heart,image3_f5,033,0,1296,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,14,0,Target_control,NULL,PennController,10,_Header_,Start,1606858132579,1,control,c3,control_hearts.mp3,Image3,Image1,Image2,circle,heart,image3_f5,033,0,1296,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,14,0,Target_control,NULL,PennController,10,_Header_,End,1606858132580,1,control,c3,control_hearts.mp3,Image3,Image1,Image2,circle,heart,image3_f5,033,0,1296,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,14,0,Target_control,NULL,Selector,target_q,Selection,image3_f5,1606858176545,1,control,c3,control_hearts.mp3,Image3,Image1,Image2,circle,heart,image3_f5,033,0,1296,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,14,0,Target_control,NULL,PennController,10,_Trial_,End,1606858183709,1,control,c3,control_hearts.mp3,Image3,Image1,Image2,circle,heart,image3_f5,033,0,1296,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,24,0,Target_past,NULL,PennController,20,_Trial_,Start,1606858183712,1,past_wish,p4,past_wish_star.mp3,Image1,Image2,Image3,star,heart,image2_f5,033,0,5206,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,24,0,Target_past,NULL,PennController,20,_Header_,Start,1606858183712,1,past_wish,p4,past_wish_star.mp3,Image1,Image2,Image3,star,heart,image2_f5,033,0,5206,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,24,0,Target_past,NULL,PennController,20,_Header_,End,1606858183714,1,past_wish,p4,past_wish_star.mp3,Image1,Image2,Image3,star,heart,image2_f5,033,0,5206,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,24,0,Target_past,NULL,Selector,target_q,Selection,image2_f5,1606858234537,1,past_wish,p4,past_wish_star.mp3,Image1,Image2,Image3,star,heart,image2_f5,033,0,5206,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,24,0,Target_past,NULL,PennController,20,_Trial_,End,1606858244556,1,past_wish,p4,past_wish_star.mp3,Image1,Image2,Image3,star,heart,image2_f5,033,0,5206,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,13,0,Target_control,NULL,PennController,9,_Trial_,Start,1606858244560,1,control,c2,control_stars.mp3,Image2,Image3,Image1,heart,star,image2_f5,033,0,1293,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,13,0,Target_control,NULL,PennController,9,_Header_,Start,1606858244560,1,control,c2,control_stars.mp3,Image2,Image3,Image1,heart,star,image2_f5,033,0,1293,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,13,0,Target_control,NULL,PennController,9,_Header_,End,1606858244561,1,control,c2,control_stars.mp3,Image2,Image3,Image1,heart,star,image2_f5,033,0,1293,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,13,0,Target_control,NULL,Selector,target_q,Selection,image2_f5,1606858287560,1,control,c2,control_stars.mp3,Image2,Image3,Image1,heart,star,image2_f5,033,0,1293,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,13,0,Target_control,NULL,PennController,9,_Trial_,End,1606858295984,1,control,c2,control_stars.mp3,Image2,Image3,Image1,heart,star,image2_f5,033,0,1293,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,19,0,Target_countcon,NULL,PennController,15,_Trial_,Start,1606858295986,1,counterfactual_conditional,t3,cf_cond_star.mp3,Image1,Image2,Image3,star,circle,image1_f5,033,1,5293,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,19,0,Target_countcon,NULL,PennController,15,_Header_,Start,1606858295986,1,counterfactual_conditional,t3,cf_cond_star.mp3,Image1,Image2,Image3,star,circle,image1_f5,033,1,5293,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,19,0,Target_countcon,NULL,PennController,15,_Header_,End,1606858295987,1,counterfactual_conditional,t3,cf_cond_star.mp3,Image1,Image2,Image3,star,circle,image1_f5,033,1,5293,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,19,0,Target_countcon,NULL,Selector,target_q,Selection,image1_f5,1606858345898,1,counterfactual_conditional,t3,cf_cond_star.mp3,Image1,Image2,Image3,star,circle,image1_f5,033,1,5293,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,19,0,Target_countcon,NULL,PennController,15,_Trial_,End,1606858353717,1,counterfactual_conditional,t3,cf_cond_star.mp3,Image1,Image2,Image3,star,circle,image1_f5,033,1,5293,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,21,0,Target_countwish,NULL,PennController,17,_Trial_,Start,1606858353719,1,counterfactual_wish,t5,cf_wish_star.mp3,Image1,Image3,Image2,star,heart,image1_f5,033,1,1387,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,21,0,Target_countwish,NULL,PennController,17,_Header_,Start,1606858353719,1,counterfactual_wish,t5,cf_wish_star.mp3,Image1,Image3,Image2,star,heart,image1_f5,033,1,1387,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,21,0,Target_countwish,NULL,PennController,17,_Header_,End,1606858353720,1,counterfactual_wish,t5,cf_wish_star.mp3,Image1,Image3,Image2,star,heart,image1_f5,033,1,1387,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,21,0,Target_countwish,NULL,Selector,target_q,Selection,image1_f5,1606858400935,1,counterfactual_wish,t5,cf_wish_star.mp3,Image1,Image3,Image2,star,heart,image1_f5,033,1,1387,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,21,0,Target_countwish,NULL,PennController,17,_Trial_,End,1606858408520,1,counterfactual_wish,t5,cf_wish_star.mp3,Image1,Image3,Image2,star,heart,image1_f5,033,1,1387,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,15,0,Target_control,NULL,PennController,11,_Trial_,Start,1606858408522,1,present_conditional,p1,pres_cond_star.mp3,Image3,Image2,Image1,star,circle,image1_f5,033,1,1988,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,15,0,Target_control,NULL,PennController,11,_Header_,Start,1606858408522,1,present_conditional,p1,pres_cond_star.mp3,Image3,Image2,Image1,star,circle,image1_f5,033,1,1988,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,15,0,Target_control,NULL,PennController,11,_Header_,End,1606858408523,1,present_conditional,p1,pres_cond_star.mp3,Image3,Image2,Image1,star,circle,image1_f5,033,1,1988,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,15,0,Target_control,NULL,Selector,target_q,Selection,image1_f5,1606858455207,1,present_conditional,p1,pres_cond_star.mp3,Image3,Image2,Image1,star,circle,image1_f5,033,1,1988,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,15,0,Target_control,NULL,PennController,11,_Trial_,End,1606858462578,1,present_conditional,p1,pres_cond_star.mp3,Image3,Image2,Image1,star,circle,image1_f5,033,1,1988,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,17,0,Target_countcon,NULL,PennController,13,_Trial_,Start,1606858462581,1,counterfactual_conditional,t1,cf_cond_star.mp3,Image2,Image3,Image1,star,circle,image2_f5,033,0,2033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,17,0,Target_countcon,NULL,PennController,13,_Header_,Start,1606858462581,1,counterfactual_conditional,t1,cf_cond_star.mp3,Image2,Image3,Image1,star,circle,image2_f5,033,0,2033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,17,0,Target_countcon,NULL,PennController,13,_Header_,End,1606858462584,1,counterfactual_conditional,t1,cf_cond_star.mp3,Image2,Image3,Image1,star,circle,image2_f5,033,0,2033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,17,0,Target_countcon,NULL,Selector,target_q,Selection,image2_f5,1606858509015,1,counterfactual_conditional,t1,cf_cond_star.mp3,Image2,Image3,Image1,star,circle,image2_f5,033,0,2033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,17,0,Target_countcon,NULL,PennController,13,_Trial_,End,1606858518112,1,counterfactual_conditional,t1,cf_cond_star.mp3,Image2,Image3,Image1,star,circle,image2_f5,033,0,2033,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,20,0,Target_countwish,NULL,PennController,16,_Trial_,Start,1606858518114,1,counterfactual_wish,t4,cf_wish_star.mp3,Image3,Image2,Image1,star,circle,image3_f5,033,0,855,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,20,0,Target_countwish,NULL,PennController,16,_Header_,Start,1606858518114,1,counterfactual_wish,t4,cf_wish_star.mp3,Image3,Image2,Image1,star,circle,image3_f5,033,0,855,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,20,0,Target_countwish,NULL,PennController,16,_Header_,End,1606858518116,1,counterfactual_wish,t4,cf_wish_star.mp3,Image3,Image2,Image1,star,circle,image3_f5,033,0,855,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,20,0,Target_countwish,NULL,Selector,target_q,Selection,image3_f5,1606858564390,1,counterfactual_wish,t4,cf_wish_star.mp3,Image3,Image2,Image1,star,circle,image3_f5,033,0,855,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,20,0,Target_countwish,NULL,PennController,16,_Trial_,End,1606858582906,1,counterfactual_wish,t4,cf_wish_star.mp3,Image3,Image2,Image1,star,circle,image3_f5,033,0,855,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,23,0,Target_past,NULL,PennController,19,_Trial_,Start,1606858582908,1,past_conditional,p3,past_cond_heart.mp3,Image2,Image3,Image1,heart,circle,image3_f5,033,0,1048,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,23,0,Target_past,NULL,PennController,19,_Header_,Start,1606858582908,1,past_conditional,p3,past_cond_heart.mp3,Image2,Image3,Image1,heart,circle,image3_f5,033,0,1048,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,23,0,Target_past,NULL,PennController,19,_Header_,End,1606858582910,1,past_conditional,p3,past_cond_heart.mp3,Image2,Image3,Image1,heart,circle,image3_f5,033,0,1048,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,23,0,Target_past,NULL,Selector,target_q,Selection,image3_f5,1606858629195,1,past_conditional,p3,past_cond_heart.mp3,Image2,Image3,Image1,heart,circle,image3_f5,033,0,1048,NULL
+1606858655,9d03e32e7d100e134e1f57fa8b77160e,PennController,23,0,Target_past,NULL,PennController,19,_Trial_,End,1606858636105,1,past_conditional,p3,past_cond_heart.mp3,Image2,Image3,Image1,heart,circle,image3_f5,033,0,1048,NULL
